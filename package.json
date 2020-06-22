@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-inappbrowser",
+  "name": "cordova-plugin-open-blank",
   "version": "1.4.1-dev",
   "description": "Cordova InAppBrowser Plugin",
   "cordova": {
-    "id": "cordova-plugin-inappbrowser",
+    "id": "cordova-plugin-open-blank",
     "platforms": [
       "android",
       "amazon-fireos",
@@ -15,10 +15,6 @@
       "windows",
       "firefoxos"
     ]
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/apache/cordova-plugin-inappbrowser"
   },
   "keywords": [
     "cordova",
