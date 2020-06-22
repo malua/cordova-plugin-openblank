@@ -1,3 +1,4 @@
+
 #import <Cordova/CDV.h>
 
 @interface CDVIntentAndNavigationFilter : CDVPlugin <NSXMLParserDelegate>
